@@ -1,0 +1,15 @@
+{
+  "name": "vm-script",
+  "version": "1.0.0",
+  "description": "use vm nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vm"
+  ],
+  "author": "zm",
+  "license": "ISC"
+}
